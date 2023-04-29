@@ -5,7 +5,6 @@
 n, m = map(int, input().split())
 x, y, direction = map(int, input().split())
 
-
 # 2. 방문 위치 저장 맵 생성, 0으로 초기화 / 현재 위치 방문처리
 d = [[0] * m for _ in range(n)]    # 리스트 컴프리헨션
 d[x][y] = 1
@@ -18,12 +17,12 @@ for i in range(n):
 dx = [-1, 0, 1, 0]
 dy = [0, 1, 0, -1]
 
-# 4. 알고리즘 (시뮬레이션)
 def turn_left():
     global direction
     direction -= 1
     if direction == -1: direction = 3
 
+# 4. 알고리즘 (시뮬레이션)
 count = 1
 turn_time = 0
 while True:
