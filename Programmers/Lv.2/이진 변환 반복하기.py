@@ -1,4 +1,4 @@
-'''Lv.1 이진 변환 반복하기'''
+'''Lv.2 이진 변환 반복하기'''
 
 # 문제 : https://school.programmers.co.kr/learn/courses/30/lessons/70129
 
