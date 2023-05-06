@@ -1,4 +1,4 @@
-'''Lv.1 최댓값과 최솟값'''
+'''Lv.2 최댓값과 최솟값'''
 
 # 문제 : https://school.programmers.co.kr/learn/courses/30/lessons/12939
 
