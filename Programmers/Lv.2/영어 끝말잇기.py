@@ -1,4 +1,4 @@
-'''Lv.1 영어 끝말잇기'''
+'''Lv.2 영어 끝말잇기'''
 
 # 문제 : https://school.programmers.co.kr/learn/courses/30/lessons/12981
 
