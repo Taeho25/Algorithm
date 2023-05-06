@@ -1,4 +1,4 @@
-'''Lv.1 기능개발'''
+'''Lv.2 기능개발'''
 
 # 문제 : https://school.programmers.co.kr/learn/courses/30/lessons/42586
 
