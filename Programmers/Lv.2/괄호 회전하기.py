@@ -1,6 +1,6 @@
-'''Lv.2 구명보트'''
+'''Lv.2 괄호 회전하기'''
 
-# 문제 : https://school.programmers.co.kr/learn/courses/30/lessons/42885
+# 문제 : https://school.programmers.co.kr/learn/courses/30/lessons/76502
 
 
 # 풀이 1
