@@ -81,9 +81,9 @@ def solution(str1, str2):
 
     if not s1 and not s2:
         return 65536
+    
     c1 = Counter(s1)
     c2 = Counter(s2)
-
     gyo = c1&c2
     hap = c1|c2
     cnt_gyo = sum(gyo.values())
@@ -92,3 +92,12 @@ def solution(str1, str2):
     answer = int(cnt_gyo / cnt_hap * 65536)
 
     return answer
+
+
+# 풀이 5
+from collections import Counter
+def solution(str1, str2):
+    s1 = [str1[i:i+2].lower() for i in range(len(str1)-1) if str1[i:i+2].isalpha()]
+    s2 = [str2[i:i+2].lower() for i in range(len(str2)-1) if str2[i:i+2].isalpha()]
+    if not s1 and not s2: return 65536
+    return int(float(sum((Counter(s1)&Counter(s2)).values()))/float(sum((Counter(s1)|Counter(s2)).values())) * 65536)
