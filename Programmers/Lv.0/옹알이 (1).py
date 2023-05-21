@@ -10,10 +10,9 @@ def solution(babbling):
     
     for word in babbling:
         for joca_word in joca_words:
-            word = word.replace(joca_word, "_")
-        word = word.replace("_", "")
+            word = word.replace(joca_word, " ")
         
-        if word == "":
+        if word.strip() == "":
             answer += 1
 
     return answer
