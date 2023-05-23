@@ -1,4 +1,4 @@
-'''Lv.2 정수를 나선형으로 배치하기'''
+'''Lv.0 정수를 나선형으로 배치하기'''
 
 # 문제 : https://school.programmers.co.kr/learn/courses/30/lessons/181832
 
