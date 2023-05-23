@@ -1,4 +1,4 @@
-'''Lv.2 옹알이 (1)'''
+'''Lv.0 옹알이 (1)'''
 
 # 문제 : https://school.programmers.co.kr/learn/courses/30/lessons/120956
 
