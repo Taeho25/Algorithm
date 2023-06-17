@@ -34,7 +34,7 @@ def solution(prices):
     return answer
 
 
-# 풀이 3
+# 풀이 3 : 정확성 테스트 10/10, 효율성 테스트 5/5
 def solution(prices):
     answer = [0] * len(prices)
 
@@ -49,7 +49,7 @@ def solution(prices):
     return answer
 
 
-# 풀이 4
+# 풀이 4 : 정확성 테스트 10/10, 효율성 테스트 5/5
 from collections import deque
 
 def solution(prices):
