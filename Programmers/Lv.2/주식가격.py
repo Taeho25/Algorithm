@@ -32,3 +32,36 @@ def solution(prices):
     answer.append(0)
     
     return answer
+
+
+# 풀이 3
+def solution(prices):
+    answer = [0] * len(prices)
+
+    for i in range(len(prices)):
+        for j in range(i+1, len(prices)):
+            if prices[i] <= prices[j]:
+                answer[i] += 1
+            else:
+                answer[i] += 1
+                break
+            
+    return answer
+
+
+# 풀이 4
+from collections import deque
+
+def solution(prices):
+    queue = deque(prices)
+    answer = []
+    
+    while queue:
+        price = queue.popleft()
+        sec = 0
+        for q in queue:
+            sec += 1
+            if price > q:
+                break 
+        answer.append(sec)        
+    return answer
