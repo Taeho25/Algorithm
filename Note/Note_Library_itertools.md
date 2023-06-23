@@ -42,7 +42,7 @@
   ```
 #### (4) 실전 문제
 | No. | 출처 | 난이도 | 문제 | 문제 풀이 |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | 1 | 프로그래머스 | Lv.0 | [주사위 게임 3](https://school.programmers.co.kr/learn/courses/30/lessons/181916) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84%203.py) |
 | 2 | 프로그래머스 | Lv.1 | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.py) |
 | 3 | 프로그래머스 |  |  |  |
@@ -132,7 +132,7 @@
   ```
 #### (4) 실전 문제
 | No. | 출처 | 난이도 | 문제 | 문제 풀이 |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | 1 | 프로그래머스 | Lv.2 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%ED%94%BC%EB%A1%9C%EB%8F%84.py) |
 | 2 |  |  |  |  |
 
@@ -202,7 +202,7 @@
   ```
 #### (4) 실전 문제
 | No. | 출처 | 난이도 | 문제 | 문제 풀이 |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | 1 | 프로그래머스 | Lv.2 | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84.py) |
 | 2 | 프로그래머스 | Lv.2 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.py) |
 | 3 | 프로그래머스 |  |  |  |
