@@ -281,7 +281,7 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.1 | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) |  |
+| 1 | Lv.1 | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) |
 | 2 | Lv.1 | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%98%88%EC%82%B0.py) |
 | 3 | Lv.2 | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) |  |
 | 4 | Lv.2 | [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99.py) |
