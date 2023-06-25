@@ -255,7 +255,7 @@
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
 | 1 | Lv.1 | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.py) |
-| 2 | Lv.2 | [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) |  |
+| 2 | Lv.2 | [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EA%B5%90%EC%A0%90%EC%97%90%20%EB%B3%84%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) |
 
 </div>
 </details>
@@ -304,7 +304,7 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.2 | [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) |  |
+| 1 | Lv.2 | [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95.py) |
 | 2 | Lv.4 | [지형 이동](https://school.programmers.co.kr/learn/courses/30/lessons/62050) |  |
 
 </div>
