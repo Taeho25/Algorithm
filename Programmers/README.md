@@ -320,7 +320,7 @@
 | 1 | Lv.1 | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.py) |
 | 2 | Lv.1 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.py) |
 | 3 | Lv.1 | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EB%82%B4%EC%A0%81.py) |
-| 4 | Lv.2 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) |  |
+| 4 | Lv.2 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.py) |
 | 5 | Lv.2 | [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) |  |
 | 6 | Lv.2 | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.py) |
 | 7 | Lv.3 | [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646) |  |
