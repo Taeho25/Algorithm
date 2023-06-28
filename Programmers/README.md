@@ -343,7 +343,7 @@
 | 1 | Lv.1 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.py) |
 | 2 | Lv.1 | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.py) |
 | 3 | Lv.2 | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.py) |
-| 4 | Lv.2 | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) |  |
+| 4 | Lv.2 | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8.py) |
 | 5 | Lv.3 | [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503) |  |
 | 6 | Lv.3 | [110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886) |  |
 | 7 | Lv.5 | [RPG와 쿼리](https://school.programmers.co.kr/learn/courses/30/lessons/76504) |  |
