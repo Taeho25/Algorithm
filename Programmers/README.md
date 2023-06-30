@@ -411,7 +411,7 @@
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
 | 1 | Lv.1 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.py) |
-| 2 | Lv.2 | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) |  |
+| 2 | Lv.2 | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.py) |
 | 3 | Lv.3 | [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) |  |
 | 4 | Lv.4 | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/81304) |  |
 | 5 | Lv.5 | [시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305) |  |
