@@ -361,7 +361,7 @@
 |:---:|:---:|:---:|:---:|
 | 1 | Lv.1 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.py) |
 | 2 | Lv.1 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.py) |
-| 3 | Lv.2 | [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052) |  |
+| 3 | Lv.2 | [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EB%B9%9B%EC%9D%98%20%EA%B2%BD%EB%A1%9C%20%EC%82%AC%EC%9D%B4%ED%81%B4.py) |
 | 4 | Lv.2 | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/n%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py) |
 | 5 | Lv.3 | [금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053) |  |
 | 6 | Lv.3 | [공 이동 시뮬레이션](https://school.programmers.co.kr/learn/courses/30/lessons/87391) |  |
@@ -433,7 +433,7 @@
 | 5 | Lv.2 | [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) |  |
 | 6 | Lv.2 | [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) |  |
 | 7 | Lv.2 | [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B3%EC%B0%A8%5D%20%EC%95%95%EC%B6%95.py) |
-| 8 | Lv.2 | [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) |  |
+| 8 | Lv.2 | [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B3%EC%B0%A8%5D%20%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC.py) |
 | 9 | Lv.2 | [[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) |  |
 | 10 | Lv.3 | [[1차] 추석 트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17676) |  |
 | 11 | Lv.3 | [[1차] 셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678) |  |
