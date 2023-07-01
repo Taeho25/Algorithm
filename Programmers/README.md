@@ -537,7 +537,7 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.1 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) |  |
+| 1 | Lv.1 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A7%91%20%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84.py) |
 | 2 | Lv.2 | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |  |
 | 3 | Lv.2 | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) |  |
 | 4 | Lv.3 | [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365) |  |
