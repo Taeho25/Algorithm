@@ -503,7 +503,7 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.1 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) |  |
+| 1 | Lv.1 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [풀이](https://school.programmers.co.kr/learn/courses/30/lessons/92334) |
 | 2 | Lv.2 | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py) |
 | 3 | Lv.2 | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.py) |
 | 4 | Lv.2 | [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |  |
