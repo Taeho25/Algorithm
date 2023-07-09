@@ -4,44 +4,42 @@
 
 
 # 풀이 1
-
-
-
-# 풀이 2
 def solution(m, n, board):
+    answer = 0
+    
     for i in range(m):
         board[i] = list(board[i])
     
-    cnt = 0
-    rm = set()
     while True:
-        # 보드를 순회하며 4블록이 된 곳의 좌표를 집합에 기록
+        print(board)
+        # 1. 4블록 세트 좌표 기록
+        rm = set()
         for i in range(m-1):
             for j in range(n-1):
-                t = board[i][j]
-                if t == []:
+                if board[i][j] == ' ':
                     continue
-                if board[i+1][j] == t and board[i][j+1] == t and board[i+1][j+1] == t:
-                    rm.add((i,j));rm.add((i+1,j))
-                    rm.add((i,j+1));rm.add((i+1,j+1))
+                if board[i][j] == board[i+1][j] == board[i][j+1] == board[i+1][j+1]:
+                    rm.add((i, j))
+                    rm.add((i+1, j))
+                    rm.add((i, j+1))
+                    rm.add((i+1, j+1))
         
-        # 좌표가 존재한다면 집합의 길이만큼 세주고 블록을 지움 
+        # 2. 지울 좌표가 있다면 지우기, 없다면 결과 반환 
         if rm:
-            cnt += len(rm)
-            for i,j in rm:
-                board[i][j] = []
-            rm = set()
+            answer += len(rm)
+            for (i, j) in rm:
+                board[i][j] = ' '
         else:
-            return cnt
+            return answer
         
-        # 블록을 위에서 아래로 당겨줌
+        # 3. 블록을 아래로 드랍
         while True:
             moved = 0
             for i in range(m-1):
                 for j in range(n):
-                    if board[i][j] and board[i+1][j]==[]:
+                    if board[i][j] != ' ' and board[i+1][j] == ' ':
                         board[i+1][j] = board[i][j]
-                        board[i][j] = []
+                        board[i][j] = ' '
                         moved = 1
             if moved == 0:
                 break
