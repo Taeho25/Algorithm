@@ -4,7 +4,31 @@
 
 
 # 풀이 1
+from itertools import product
 
+def solution(n, info):
+    info.reverse()
+    answer = [-1]
+    max_gap = 0
+    
+    for win in product((True, False), repeat=11):
+        # 라이언이 가져가는 점수의 화살 수
+        num_arrow = sum(info[i]+1 for i in range(11) if win[i])
+
+        # 라이언이 가져가는 점수의 화살 수 <= 총 화살 수 : 말이 됨
+        if num_arrow <= n:
+            # 점수
+            apeach_score = sum(i for i in range(11) if not win[i] and info[i]) # 라이언이 지거나 비김
+            ryan_score = sum(i for i in range(11) if win[i]) # 라이언이 이김
+            gap = ryan_score - apeach_score
+            if gap > max_gap:
+                max_gap = gap
+                answer = [info[i]+1 if win[i] else 0 for i in range(11)]
+                answer[0] += n - num_arrow  # 남은 화살은 0점에
+    answer.reverse()
+
+    return answer
+    
 
 # 풀이 2
 from collections import deque
