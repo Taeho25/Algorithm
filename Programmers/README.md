@@ -492,7 +492,7 @@
 | 3 | Lv.2 | [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.py) |
 | 4 | Lv.2 | [[1차] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B1%EC%B0%A8%5D%20%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.py) |
 | 5 | Lv.2 | [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) |  |
-| 6 | Lv.2 | [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) |  |
+| 6 | Lv.2 | [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | [풀이](https://school.programmers.co.kr/learn/courses/30/lessons/17683) |
 | 7 | Lv.2 | [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B3%EC%B0%A8%5D%20%EC%95%95%EC%B6%95.py) |
 | 8 | Lv.2 | [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B3%EC%B0%A8%5D%20%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC.py) |
 | 9 | Lv.2 | [[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) |  |
