@@ -547,7 +547,7 @@
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
 | 1 | Lv.1 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C.py) |
-| 2 | Lv.2 | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) |  |
+| 2 | Lv.2 | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.py) |
 | 3 | Lv.2 | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) |  |
 | 4 | Lv.3 | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) |  |
 | 5 | Lv.3 | [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) |  |
