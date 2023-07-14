@@ -495,7 +495,7 @@
 | 6 | Lv.2 | [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B3%EC%B0%A8%5D%20%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1.py) |
 | 7 | Lv.2 | [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B3%EC%B0%A8%5D%20%EC%95%95%EC%B6%95.py) |
 | 8 | Lv.2 | [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B3%EC%B0%A8%5D%20%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC.py) |
-| 9 | Lv.2 | [[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | [풀이](https://school.programmers.co.kr/learn/courses/30/lessons/17687) |
+| 9 | Lv.2 | [[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B3%EC%B0%A8%5D%20n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.py) |
 | 10 | Lv.3 | [[1차] 추석 트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17676) |  |
 | 11 | Lv.3 | [[1차] 셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678) |  |
 | 12 | Lv.4 | [[3차] 자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685) |  |
