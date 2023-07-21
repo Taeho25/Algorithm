@@ -8,7 +8,7 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.0 | []() |  |
+| 1 | Lv.0 | [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/a%EC%99%80%20b%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.c) |
 | 2 | Lv.0 | []() |  |
 | 3 | Lv.0 | []() |  |
 | 4 | Lv.0 | []() |  |
