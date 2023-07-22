@@ -8,26 +8,26 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.0 | [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/a%EC%99%80%20b%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.c) |
-| 2 | Lv.0 | []() |  |
-| 3 | Lv.0 | []() |  |
-| 4 | Lv.0 | []() |  |
-| 5 | Lv.0 | []() |  |
-| 6 | Lv.0 | []() |  |
-| 7 | Lv.0 | []() |  |
-| 8 | Lv.0 | []() |  |
-| 9 | Lv.0 | []() |  |
-| 10 | Lv.0 | []() |  |
-| 11 | Lv.0 | []() |  |
-| 12 | Lv.0 | []() |  |
-| 13 | Lv.0 | []() |  |
-| 14 | Lv.0 | []() |  |
-| 15 | Lv.0 | []() |  |
-| 16 | Lv.0 | []() |  |
-| 17 | Lv.0 | []() |  |
-| 18 | Lv.0 | []() |  |
-| 19 | Lv.0 | []() |  |
-| 20 | Lv.0 | []() |  |
+| 1 | Lv.0 | [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.c) |
+| 2 | Lv.0 | [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/a%EC%99%80%20b%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.c) |
+| 3 | Lv.0 | [문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950) |  |
+| 4 | Lv.0 | [대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949) |  |
+| 5 | Lv.0 | [특수문자 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181948) |  |
+| 6 | Lv.0 | [덧셈식 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947) |  |
+| 7 | Lv.0 | [문자열 붙여서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181946) |  |
+| 8 | Lv.0 | [문자열 돌리기](https://school.programmers.co.kr/learn/courses/30/lessons/181945) |  |
+| 9 | Lv.0 | [홀짝 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/181944) |  |
+| 10 | Lv.0 | [문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943) |  |
+| 11 | Lv.0 | [문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942) |  |
+| 12 | Lv.0 | [문자 리스트를 문자열로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181941) |  |
+| 13 | Lv.0 | [문자열 곱하기](https://school.programmers.co.kr/learn/courses/30/lessons/181940) |  |
+| 14 | Lv.0 | [더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939) |  |
+| 15 | Lv.0 | [두 수의 연산값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938) |  |
+| 16 | Lv.0 | [n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937) |  |
+| 17 | Lv.0 | [공배수](https://school.programmers.co.kr/learn/courses/30/lessons/181936) |  |
+| 18 | Lv.0 | [홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935) |  |
+| 19 | Lv.0 | [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934) |  |
+| 20 | Lv.0 | [flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933) |  |
 | 21 | Lv.0 | []() |  |
 | 22 | Lv.0 | []() |  |
 | 23 | Lv.0 | []() |  |
