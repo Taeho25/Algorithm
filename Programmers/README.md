@@ -27,7 +27,7 @@
 | 17 | Lv.0 | [공배수](https://school.programmers.co.kr/learn/courses/30/lessons/181936) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/%EA%B3%B5%EB%B0%B0%EC%88%98.c) |
 | 18 | Lv.0 | [홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/%ED%99%80%EC%A7%9D%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EB%8B%A4%EB%A5%B8%20%EA%B0%92%20%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0.c) |
 | 19 | Lv.0 | [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/%EC%A1%B0%EA%B1%B4%20%EB%AC%B8%EC%9E%90%EC%97%B4.c) |
-| 20 | Lv.0 | [flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/flag%EC%95%A0%20%EB%94%B0%EB%9D%BC%20%EB%8B%A4%EB%A5%B8%20%EA%B0%92%20%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0.c) |
+| 20 | Lv.0 | [flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/flag%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EB%8B%A4%EB%A5%B8%20%EA%B0%92%20%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0.c) |
 | 21 | Lv.0 | []() |  |
 | 22 | Lv.0 | []() |  |
 | 23 | Lv.0 | []() |  |
