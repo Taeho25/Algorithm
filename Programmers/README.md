@@ -10,16 +10,16 @@
 |:---:|:---:|:---:|:---:|
 | 1 | Lv.0 | [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.c) |
 | 2 | Lv.0 | [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/a%EC%99%80%20b%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.c) |
-| 3 | Lv.0 | [문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950) |  |
-| 4 | Lv.0 | [대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949) |  |
-| 5 | Lv.0 | [특수문자 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181948) |  |
-| 6 | Lv.0 | [덧셈식 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947) |  |
-| 7 | Lv.0 | [문자열 붙여서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181946) |  |
-| 8 | Lv.0 | [문자열 돌리기](https://school.programmers.co.kr/learn/courses/30/lessons/181945) |  |
-| 9 | Lv.0 | [홀짝 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/181944) |  |
-| 10 | Lv.0 | [문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943) |  |
-| 11 | Lv.0 | [문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942) |  |
-| 12 | Lv.0 | [문자 리스트를 문자열로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181941) |  |
+| 3 | Lv.0 | [문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5%ED%95%B4%EC%84%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.c) |
+| 4 | Lv.0 | [대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%20%EB%B0%94%EA%BF%94%EC%84%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.c) |
+| 5 | Lv.0 | [특수문자 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181948) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.c) |
+| 6 | Lv.0 | [덧셈식 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/%EB%8D%A7%EC%85%88%EC%8B%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.c) |
+| 7 | Lv.0 | [문자열 붙여서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181946) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B6%99%EC%97%AC%EC%84%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.c) |
+| 8 | Lv.0 | [문자열 돌리기](https://school.programmers.co.kr/learn/courses/30/lessons/181945) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0.c) |
+| 9 | Lv.0 | [홀짝 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/181944) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/%ED%99%80%EC%A7%9D%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0.c) |
+| 10 | Lv.0 | [문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B2%B9%EC%B3%90%EC%93%B0%EA%B8%B0.c) |
+| 11 | Lv.0 | [문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%84%9E%EA%B8%B0.c) |
+| 12 | Lv.0 | [문자 리스트를 문자열로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181941) | [C](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.0/%EB%AC%B8%EC%9E%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.c) |
 | 13 | Lv.0 | [문자열 곱하기](https://school.programmers.co.kr/learn/courses/30/lessons/181940) |  |
 | 14 | Lv.0 | [더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939) |  |
 | 15 | Lv.0 | [두 수의 연산값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938) |  |
@@ -315,8 +315,8 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.1 | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.py) |
-| 2 | Lv.2 | [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EA%B5%90%EC%A0%90%EC%97%90%20%EB%B3%84%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) |
+| 1 | Lv.1 | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.py) |
+| 2 | Lv.2 | [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EA%B5%90%EC%A0%90%EC%97%90%20%EB%B3%84%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) |
 
 </div>
 </details>
@@ -328,8 +328,8 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.2 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.py) |
-| 2 | Lv.2 | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.py) |
+| 1 | Lv.2 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.py) |
+| 2 | Lv.2 | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.py) |
 | 3 | Lv.4 | [단어 퍼즐](https://school.programmers.co.kr/learn/courses/30/lessons/12983) |  |
 
 </div>
@@ -342,13 +342,13 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.1 | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) |
-| 2 | Lv.1 | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%98%88%EC%82%B0.py) |
-| 3 | Lv.2 | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EB%B0%B0%EB%8B%AC.py) |
-| 4 | Lv.2 | [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99.py) |
-| 5 | Lv.2 | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.py) |
-| 6 | Lv.2 | [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.py) |
-| 7 | Lv.2 | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4.py) |
+| 1 | Lv.1 | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) |
+| 2 | Lv.1 | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%98%88%EC%82%B0.py) |
+| 3 | Lv.2 | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EB%B0%B0%EB%8B%AC.py) |
+| 4 | Lv.2 | [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99.py) |
+| 5 | Lv.2 | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.py) |
+| 6 | Lv.2 | [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.py) |
+| 7 | Lv.2 | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4.py) |
 | 8 | Lv.3 | [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971) |  |
 | 9 | Lv.3 | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) |  |
 | 10 | Lv.3 | [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) |  |
@@ -365,7 +365,7 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.2 | [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95.py) |
+| 1 | Lv.2 | [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95.py) |
 | 2 | Lv.4 | [지형 이동](https://school.programmers.co.kr/learn/courses/30/lessons/62050) |  |
 
 </div>
@@ -378,12 +378,12 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.1 | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.py) |
-| 2 | Lv.1 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.py) |
-| 3 | Lv.1 | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EB%82%B4%EC%A0%81.py) |
-| 4 | Lv.2 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.py) |
+| 1 | Lv.1 | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.py) |
+| 2 | Lv.1 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.py) |
+| 3 | Lv.1 | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EB%82%B4%EC%A0%81.py) |
+| 4 | Lv.2 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.py) |
 | 5 | Lv.2 | [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) |  |
-| 6 | Lv.2 | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.py) |
+| 6 | Lv.2 | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.py) |
 | 7 | Lv.3 | [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646) |  |
 | 8 | Lv.3 | [스타 수열](https://school.programmers.co.kr/learn/courses/30/lessons/70130) |  |
 | 9 | Lv.4 | [짝수 행 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68647) |  |
@@ -401,10 +401,10 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.1 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.py) |
-| 2 | Lv.1 | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.py) |
-| 3 | Lv.2 | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.py) |
-| 4 | Lv.2 | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8.py) |
+| 1 | Lv.1 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.py) |
+| 2 | Lv.1 | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.py) |
+| 3 | Lv.2 | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.py) |
+| 4 | Lv.2 | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8.py) |
 | 5 | Lv.3 | [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503) |  |
 | 6 | Lv.3 | [110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886) |  |
 | 7 | Lv.5 | [RPG와 쿼리](https://school.programmers.co.kr/learn/courses/30/lessons/76504) |  |
@@ -420,10 +420,10 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.1 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.py) |
-| 2 | Lv.1 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.py) |
-| 3 | Lv.2 | [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EB%B9%9B%EC%9D%98%20%EA%B2%BD%EB%A1%9C%20%EC%82%AC%EC%9D%B4%ED%81%B4.py) |
-| 4 | Lv.2 | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/n%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py) |
+| 1 | Lv.1 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.py) |
+| 2 | Lv.1 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.py) |
+| 3 | Lv.2 | [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EB%B9%9B%EC%9D%98%20%EA%B2%BD%EB%A1%9C%20%EC%82%AC%EC%9D%B4%ED%81%B4.py) |
+| 4 | Lv.2 | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/n%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py) |
 | 5 | Lv.3 | [금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053) |  |
 | 6 | Lv.3 | [공 이동 시뮬레이션](https://school.programmers.co.kr/learn/courses/30/lessons/87391) |  |
 | 7 | Lv.4 | [안티세포](https://school.programmers.co.kr/learn/courses/30/lessons/86054) |  |
@@ -439,8 +439,8 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.1 | [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.py) |
-| 2 | Lv.2 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%ED%8A%9C%ED%94%8C.py) |
+| 1 | Lv.1 | [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.py) |
+| 2 | Lv.2 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%ED%8A%9C%ED%94%8C.py) |
 | 3 | Lv.3 | [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) |  |
 | 4 | Lv.3 | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) |  |
 | 5 | Lv.4 | [호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063) |  |
@@ -455,7 +455,7 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.1 | [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0.py) |
+| 1 | Lv.1 | [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0.py) |
 | 2 | Lv.2 | [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) |  |
 | 3 | Lv.3 | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) |  |
 | 4 | Lv.3 | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) |  |
@@ -471,8 +471,8 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.1 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.py) |
-| 2 | Lv.2 | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.py) |
+| 1 | Lv.1 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.py) |
+| 2 | Lv.2 | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.py) |
 | 3 | Lv.3 | [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) |  |
 | 4 | Lv.4 | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/81304) |  |
 | 5 | Lv.5 | [시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305) |  |
@@ -487,15 +487,15 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.1 | [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.py) |
-| 2 | Lv.1 | [[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%5B1%EC%B0%A8%5D%20%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.py) |
-| 3 | Lv.2 | [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.py) |
-| 4 | Lv.2 | [[1차] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B1%EC%B0%A8%5D%20%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.py) |
+| 1 | Lv.1 | [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.py) |
+| 2 | Lv.1 | [[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%5B1%EC%B0%A8%5D%20%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.py) |
+| 3 | Lv.2 | [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.py) |
+| 4 | Lv.2 | [[1차] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B1%EC%B0%A8%5D%20%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.py) |
 | 5 | Lv.2 | [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) |  |
-| 6 | Lv.2 | [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B3%EC%B0%A8%5D%20%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1.py) |
-| 7 | Lv.2 | [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B3%EC%B0%A8%5D%20%EC%95%95%EC%B6%95.py) |
-| 8 | Lv.2 | [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B3%EC%B0%A8%5D%20%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC.py) |
-| 9 | Lv.2 | [[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B3%EC%B0%A8%5D%20n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.py) |
+| 6 | Lv.2 | [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B3%EC%B0%A8%5D%20%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1.py) |
+| 7 | Lv.2 | [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B3%EC%B0%A8%5D%20%EC%95%95%EC%B6%95.py) |
+| 8 | Lv.2 | [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B3%EC%B0%A8%5D%20%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC.py) |
+| 9 | Lv.2 | [[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%5B3%EC%B0%A8%5D%20n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.py) |
 | 10 | Lv.3 | [[1차] 추석 트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17676) |  |
 | 11 | Lv.3 | [[1차] 셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678) |  |
 | 12 | Lv.4 | [[3차] 자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685) |  |
@@ -510,8 +510,8 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.1 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%8B%A4%ED%8C%A8%EC%9C%A8.py) |
-| 2 | Lv.2 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.py) |
+| 1 | Lv.1 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%8B%A4%ED%8C%A8%EC%9C%A8.py) |
+| 2 | Lv.2 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.py) |
 | 3 | Lv.2 | [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) |  |
 | 4 | Lv.3 | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) |  |
 | 5 | Lv.3 | [매칭 점수](https://school.programmers.co.kr/learn/courses/30/lessons/42893) |  |
@@ -546,8 +546,8 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.1 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C.py) |
-| 2 | Lv.2 | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.py) |
+| 1 | Lv.1 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C.py) |
+| 2 | Lv.2 | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.py) |
 | 3 | Lv.2 | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) |  |
 | 4 | Lv.3 | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) |  |
 | 5 | Lv.3 | [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) |  |
@@ -564,10 +564,10 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.1 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [풀이](https://school.programmers.co.kr/learn/courses/30/lessons/92334) |
-| 2 | Lv.2 | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py) |
-| 3 | Lv.2 | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.py) |
-| 4 | Lv.2 | [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C.py) |
+| 1 | Lv.1 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [Python](https://school.programmers.co.kr/learn/courses/30/lessons/92334) |
+| 2 | Lv.2 | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py) |
+| 3 | Lv.2 | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.py) |
+| 4 | Lv.2 | [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C.py) |
 | 5 | Lv.3 | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) |  |
 | 6 | Lv.3 | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) |  |
 | 7 | Lv.3 | [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) |  |
@@ -582,7 +582,7 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.1 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0.py) |
+| 1 | Lv.1 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0.py) |
 | 2 | Lv.2 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |  |
 | 3 | Lv.3 | [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) |  |
 | 4 | Lv.3 | [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) |  |
@@ -598,8 +598,8 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.1 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A7%91%20%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84.py) |
-| 2 | Lv.2 | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98%20%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC.py) |
+| 1 | Lv.1 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A7%91%20%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84.py) |
+| 2 | Lv.2 | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.2/%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98%20%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC.py) |
 | 3 | Lv.2 | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) |  |
 | 4 | Lv.3 | [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365) |  |
 | 5 | Lv.3 | [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366) |  |
@@ -616,7 +616,7 @@
 
 | No. | 난이도 | 문제 | 문제 풀이 |
 |:---:|:---:|:---:|:---:|
-| 1 | Lv.1 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | [풀이](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.py) |
+| 1 | Lv.1 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | [Python](https://github.com/Taeho25/Algorithm/blob/main/Programmers/Lv.1/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.py) |
 | 2 | Lv.2 | [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) |  |
 | 3 | Lv.3 | [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486) |  |
 
